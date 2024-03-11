@@ -1,6 +1,6 @@
 {
   "name": "onedionys-lazy-loading-components",
-  "version": "1.0.1",
+  "version": "4.0.0",
   "description": "One Dionys (Lazy Loading Components) - Functions to incrementally load application components when needed.",
   "main": "src/lazyLoadingComponents.js",
   "directories": {
